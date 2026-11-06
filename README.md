@@ -1,6 +1,28 @@
-# cimiento_ia
+## Próximas etapas
 
-    Buscar ideas en conjunto y separadas de los cuellos de botella
-    Hacer protoripos de los enunciados, subirlos y definir el mejor candidato
-    Integrar inteligencia artificial como motor para cada una de las soluciones  
-    Definir que aplicaciones se pueden integrar a los prototipos y al motor de inteligencia artificial 
+- Buscar ideas en conjunto y separadas de los cuellos de botella
+  - Mensajes dispersos y acuerdos sin seguimiento
+  - Reuniones largas sin actas ni compromisos
+  - Informes y memorias escritos desde cero
+  - Archivos difíciles de encontrar y versiones distintas
+  - Consultas y observaciones respondidas varias veces
+  - Revisiones con comentarios dispersos
+  - Cantidades y cartillas copiadas a mano
+  - Entregas preparadas y publicadas a mano
+  - Solicitudes administrativas con datos repetidos
+  - Inducción explicada muchas veces
+- Hacer prototipos de los enunciados, subirlos y definir el mejor candidato
+  - Crear un prototipo por grupo de cuellos de botella
+  - Publicar cada prototipo en GitHub Pages
+  - Comparar horas ahorradas, facilidad y riesgo
+- Integrar inteligencia artificial como motor para cada una de las soluciones
+  - Transcribir audios a texto
+  - Clasificar mensajes y extraer datos
+  - Buscar antecedentes con fuentes
+  - Generar borradores con revisión humana
+- Definir qué aplicaciones se pueden integrar a los prototipos y al motor de inteligencia artificial
+  - Correo y canal corporativo
+  - WhatsApp Business
+  - Drive o SharePoint
+  - Tablero de tareas y calendario
+  - Revit y Excel
